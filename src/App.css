@@ -1,0 +1,82 @@
+body {
+  padding-top: 15vh;
+}
+
+.list-media{
+  max-width: 15%;
+}
+
+.list-media{
+  max-width: 15%;
+}
+@media (max-width: 300px) {
+  body {
+    padding-top: 0px;
+  }
+
+  .list-media{
+    max-width: 75%;
+  }
+
+  .list-media{
+    max-width: 75%;
+  }
+}
+
+.user-name {
+  display: inline-block;
+  font-size: 14px;
+  text-align: right;
+  margin-right: 1em;
+}
+
+.user-avatar {
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+}
+
+.card{
+  max-height: 200px;
+  margin-top: 25px;
+}
+
+.card-header {
+  height: 150px;
+}
+
+.card-image{
+  max-height: 30%;
+  width: 100%;
+}
+
+.token-image{
+  width: 150px;
+}
+
+.card-footer{
+  background-color: white;
+}
+
+.navbar-dropdown{
+  height: 40px;
+}
+
+.dropdown-toggle::after{
+  display: none;
+}
+
+.navbar {
+  z-index: 1;
+}
+
+audio {
+  height: 75px;
+  display: block;
+}
+
+#uport-qr img{
+  width: 50%;
+}

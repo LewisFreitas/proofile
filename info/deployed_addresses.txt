@@ -1,0 +1,2 @@
+Base: 0xc3882ceaed9b330ee9ab43db04041fb586cb6adf
+LicenseManager: 0x85de49ddb6aa313fa8bdfc2eb37e886f5cee23f1
