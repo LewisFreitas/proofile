@@ -45,10 +45,10 @@ My solution was to create a simple License issuer where I define a simple agreem
 The user stories will resemble a lot proof-of-existence or marketplace ones with a couple of twists.
 
 1. You upload a drum beat you are proud of. This will create a timestamped verifiable proof of ownership. You can then start a license sale for an amount of Ether or any ERC20 token.
-2. You can buy a usage license for a guitar riff that a user uploaded. He asks for 100 PRF (proofile ERC-20 tokens) and 0.01 ETH. You buy it for Ether. You can prove that you bought a license (forever!)
+2. You can buy a usage license for a guitar riff that a user uploaded. He asks for 100 PRF (proofile ERC-20 tokens) and 0.01 ETH. You buy it with Ether. You can prove that you bought a license (forever!)
 3. You just took an amazing picture. 3 bloggers are interestead in using it, you start a license sale so they can buy it.
 4. There's been a car blocking your garage entrance for 2 weeks. You can take a picture and prove that this car has been there, at least since you uploaded the picture on your proofile, since you can't mess with the timestamp.
-5. You just had an amazing idea. You want to be credited for it. You uploaded a video explaining it. You were the first one doing it. It's yours. Forever.
+5. You just had an amazing idea - a 1,000,000$ idea. You want to prove you had it. You uploaded a video or document explaining it. You were the first one doing it. It's yours. Forever.
 6. You have information that has been censored by other platforms/government/wtvr. Upload your video, document, picture or audio - it won't be censored here.
 
 ### How to set it up?
