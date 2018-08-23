@@ -5,7 +5,7 @@ Demo version: https://proofile.herokuapp.com (deployed on Rinkeby)
 
 ### What does this project do?
 
-Simplistically, you upload files and build your proofile. This means you can prove ownership and existence of a certain digital piece - audio, video, photos or a document. If you want others to 'legally' use it, I created a simple agreement that I call usage licenses. You provide the possiblity of others to buy licenses from you. The content can't be censored.
+Simplistically, you upload files and build your proofile with uPort. The files are all stored on IPFS and all the other data on smart contracts on Rinkeby (Ethereum testnet). This means you can prove ownership and existence of a certain digital piece - audio, video, photos or a document. If you want others to 'legally' use it, I created a simple agreement that I call usage licenses. You provide the possiblity of others to buy licenses from you. The content can't be censored.
 
 You can sell usage licenses. You can sell them for Ether or any ERC-20 token. The ETH will remain on the contract until you withdraw it. The ERC-20 tokens are transfered directly by the buyer.
 
