@@ -5,9 +5,7 @@ Demo version: https://proofile.herokuapp.com (deployed on Rinkeby)
 
 ### What does this project do?
 
-Simplistically, you upload files and manage licenses and their sales on this dapp.
-
-You can prove the existence of a file and the ownership of it. The content can't be censored.
+Simplistically, you upload files and build your proofile. This means you can prove ownership and existence of a certain digital piece - audio, video, photos or a document. If you want others to 'legally' use it, I created a simple agreement that I call usage licenses. You provide the possiblity of others to buy licenses from you. The content can't be censored.
 
 You can sell usage licenses. You can sell them for Ether or any ERC-20 token. The ETH will remain on the contract until you withdraw it. The ERC-20 tokens are transfered directly by the buyer.
 
@@ -61,7 +59,10 @@ The user stories will resemble a lot proof-of-existence or marketplace ones with
 
 This project uses uPort to sign transactions (not Metamask) and as a login mechanism. 
 
+This project runs on Rinkeby, because of uPort. If you want to get your hands (super) dirty watch this and try to do something with "Deploy uPort IdentityManager Smart Contracts to Ganache" locally.
 https://www.youtube.com/watch?v=6tf58L0Twt0
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6tf58L0Twt0/0.jpg)](https://www.youtube.com/watch?v=6tf58L0Twt0)
 
 
 
